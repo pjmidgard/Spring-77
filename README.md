@@ -1,3 +1,4 @@
 # Spring-77
 Spring-77.py
-Spring-76 Division plus 1 this and write bit less and multyply by this number back. If prime number -2 and divide. Repeat this many times.
+
+Division plus 1 this and write bit less and multyply by this number back. If prime number -2 and divide. Repeat this many times.
