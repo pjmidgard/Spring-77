@@ -522,14 +522,14 @@ class compression:
                                         if sda5=="1":
                                                 T7 = int(sda3, 2)
                                                 T8 = int(sda4, 2)
-                                                e=(2**24)-1
+                                                e=(2**9)-1
                                                 j=e+T8
                                                 T7=T7*j
                                                 T7=T7+2
                                         if sda5=="0":
                                                 T7 = int(sda3, 2)
                                                 T8 = int(sda4, 2)
-                                                e=(2**24)-1
+                                                e=(2**9)-1
                                                 j=e+T8
                                                 T7=T7*j
                                
