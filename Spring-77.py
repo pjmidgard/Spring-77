@@ -517,7 +517,7 @@ class compression:
                                         
                                         sda4=sda3[lenf6-8:lenf6-1]
                                         sda5=sda3[lenf6-1:lenf6]
-                                        sda3=sda3[0:lenf6-7]
+                                        sda3=sda3[0:lenf6-8]
                                 
                                         if sda5=="1":
                                                 T7 = int(sda3, 2)
