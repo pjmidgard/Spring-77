@@ -253,7 +253,7 @@ class compression:
                                     sda19=""
                                     
                                     sda3=sda2
-                                    Spin=0
+                                    
                                     lenf6=len(sda3)
                                     ei4=0
                                     ei5=20
@@ -283,7 +283,7 @@ class compression:
 
                                     ei=0
 
-                                    Spin=0
+                                    
                                     
                                     
                                     	
