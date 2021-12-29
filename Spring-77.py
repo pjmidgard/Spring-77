@@ -583,7 +583,7 @@ class compression:
                                             	sda17=szx+sda17
                                     										
                                             if C==1 and T==0:
-                                                    sda17=sda3[48:]
+                                                    sda17=sda3[56:]
 
 
                                             L=len(sda17)
